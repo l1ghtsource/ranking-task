@@ -26,3 +26,5 @@ Github не поддерживает виджеты plotly, поэтому см�
 *Стэк*: lightgbm, optuna, bluecast, sklearn, plotly
  
 ## Результат
+
+![alt text](metrics.png)
